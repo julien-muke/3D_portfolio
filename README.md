@@ -2,7 +2,7 @@
 ![Screenshot](3d.gif)
 
 # Introduction
-build a cool 3D website portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your skills and get a job!
+build a cool 3D website portfolio with fun interactive parts, like a floating island and a fox that moves when you type.
 
 
  Learn from:
